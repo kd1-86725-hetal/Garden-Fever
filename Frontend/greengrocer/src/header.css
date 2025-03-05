@@ -1,0 +1,82 @@
+.header-ul {
+  display: inline-block;
+  padding: 10px;
+}
+
+.header-most-top p {
+  text-align: center;
+  color: #fff;
+  font-weight: 600;
+  padding: 2px;
+  letter-spacing: 2px;
+  background: #1accfd;
+}
+
+.logo {
+  height: 70px;
+  width: 80px;
+  margin-right: auto;
+}
+
+.para {
+  font-size: 50px;
+}
+
+.img1{
+  width: 50px;
+  height: 70px;
+}
+
+.img2{
+  width: 190px;
+  height: 50px;
+}
+
+.navbar-t {
+  background-color: rgb(227, 236, 233);
+}
+.h-text{
+ 
+  color: tomato;
+}
+.h-text1{
+  margin-left: 20px;
+  color: tomato;
+  
+}
+.h-text2{
+  margin-left: 100px;
+  color:black ;
+  margin-top: -30px;
+}
+
+.navbar {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-brand {
+  font-size: 24px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+a{
+  text-decoration: none;
+}
+
+.nav-link {
+  margin-right: 20px;
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: uppercase;
+  cursor: pointer;
+  text-decoration: none;
+ 
+}
+
+.navbar-nav > .nav-item:last-child .nav-link {
+  margin-right: 0;
+}
+
+.nav-link:hover {
+  color: #333;
+}
